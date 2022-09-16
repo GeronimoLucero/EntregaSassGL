@@ -1,0 +1,66 @@
+
+.MenuContacto{
+    height: 100px;
+    background-color: #000000;
+    padding: 0 50px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+   .MenuContacto a{
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0 10px;
+    transition: 0.4s;
+}
+   
+.bodyContacto{
+    background-image: url(../imagenes/JAZZ.jpg);
+}
+
+form{
+    width: 450px;
+    margin: auto;
+    background-color:rgba(0,0,0,0.4);
+    padding: 40px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+
+h2{
+    color:#fff;
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+input, textarea{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+}
+textarea{
+      min-height: 200px;
+      max-height: 200px;
+      max-width: 500px;
+    }
+
+    #boton{
+        background: #31384A;
+        color: #fff;
+        padding: 20px;
+    }
+#boton:hover{
+    cursor: pointer;
+}
+
+

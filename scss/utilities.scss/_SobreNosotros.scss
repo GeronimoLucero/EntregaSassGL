@@ -1,0 +1,45 @@
+
+#SobreN img {
+    border-radius: 100%;
+    height: 35vh;
+    margin: 50px; }
+  
+  #TextoF {
+    padding: 10px 50px;
+    margin: 50px;
+    flex-direction: column; }
+  
+  .Cassette1 img {
+    width: 100%; }
+    
+ .contenedor {
+    display: flex; }
+      
+.contenedor img {
+    border-radius: 100%;
+    padding: 50px 50px;
+    height: 50vh;
+    background-size: cover;
+    background-position: center; }
+      
+.contenedor p {
+    padding: 50px; }
+      
+.contenedor2 {
+    display: flex; }
+      
+.contenedor2 img {
+    border-radius: 100%;
+    padding: 0 50px;
+    height: 50vh;
+    background-size: cover;
+    background-position: center; }
+      
+.contenedor2 p {
+    padding: 50px; }
+      
+.DittoF {
+    text-align: center;
+    font-size: 30px;
+    padding: 30px; }
+          
